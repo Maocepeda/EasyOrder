@@ -10,9 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EasyOrder">
         <activity
+            android:name=".view.ui.activities.SignUp"
+            android:exported="false" />
+        <activity
             android:name=".view.ui.activities.SplashScreenActivity"
             android:exported="true">
-            <intent-filter>//Esta etiqueta solo debe estar en la actividad que se carga inicialmente, si se repite crea mas de un plugin
+            <intent-filter>
+                //Esta etiqueta solo debe estar en la actividad que se carga inicialmente, si se
+                repite crea mas de un plugin
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -20,9 +25,7 @@
         </activity>
         <activity
             android:name=".view.ui.activities.MainActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
     </application>
 
 </manifest>
