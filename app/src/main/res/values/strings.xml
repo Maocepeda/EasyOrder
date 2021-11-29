@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">pedidos</string>
+    <string name="entrega_a_domicilio">Entrega a domicilio</string>
+    <string name="en_el_establecimiento">En el establecimiento</string>
+    <string name="seleccione_su_pedido">Seleccione su pedido</string>
+    <string name="cuarta">cuarta</string>
+    <string name="triple">Triple</string>
+    <string name="desayunos">DESAYUNOS</string>
+    <string name="easy_order">Easy Order</string>
+    <string name="doble">Doble</string>
+    <string name="sencila">Sencila</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="button2">Button</string>
+    <string name="hamburguesas">hamburguesas</string>
+    <string name="bebidas">Bebidas</string>
+    <string name="gaseosa">Gaseosa</string>
+    <string name="agua">Agua</string>
+    <string name="vino">Vino</string>
+    <string name="granizada">Granizada</string>
+    <string name="todo2">TODO</string>
+    <string name="total_a_pagar">Total a pagar:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="calcular">Calcular</string>
+    <string name="Hamburguesas">Hamburguesas</string>
+    <string name="especial">Especial</string>
+    <string name="mixta">Mixta</string>
+    <string name="perros">Perros</string>
+    <string name="sencillo">Sencillo</string>
+    <string name="carnudito">Especial</string>
+    <string name="el_descomunal">El descomunal</string>
+    <string name="de_la_casa">De la casa</string>
+    <string name="todo1">TODO1</string>
+</resources>
