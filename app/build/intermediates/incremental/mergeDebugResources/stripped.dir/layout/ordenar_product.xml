@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Toolbar
+
+            android:id="@+id/toolBarProduct"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:title="Easy Order"
+            app:subtitle="Pedidos"
+            app:logo="@mipmap/ic_launcher_foreground"
+            android:background="@color/primaryDarkColor" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="@dimen/cardCornerRadius"
+                    app:cardElevation="@dimen/cardElevation"
+                    android:layout_margin="@dimen/defaultlayoutMargin">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/imageHamburCensilla"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/heightImagePoduct"
+                            android:layout_margin="@dimen/defaultlayoutMargin"
+                            android:src="@mipmap/hambur_sencilla"/>
+                        <TextView
+                            android:id="@+id/NameHamburSencilla"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="HAMBURGUESA SENCILLA"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizeNameProduct"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/PriceHamburSencilla"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="$15000"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <TextView
+                            android:id="@+id/DescripHamburSencilla"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="Descripcion: Queso;carne 150g, tomate, lechuga ,salsas"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <Button
+                            android:id="@+id/BuyHamburSencilla"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="@dimen/defaultlayoutMargin"
+                            android:background="@color/primaryDarkColor"
+                            android:text="@string/btbuyproduct"
+                            android:textColor="@color/ic_launcher_background" />
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="@dimen/cardCornerRadius"
+                    app:cardElevation="@dimen/cardElevation"
+                    android:layout_margin="@dimen/defaultlayoutMargin">
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+                        
+                        <ImageView
+                            android:id="@+id/imageHamburDobleCarne"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/heightImagePoduct"
+                            android:layout_margin="@dimen/defaultlayoutMargin"
+                            android:src="@mipmap/hamburguesa_doblecarne"/>
+                        <TextView
+                            android:id="@+id/NameHamburDobleCarne"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="HAMBURGUESA DOBLE CARNE"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizeNameProduct"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/PriceHamburDobleCarne"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="$25000"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <TextView
+                            android:id="@+id/DescripHamburDobleCarne"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="Descripcion: Queso;Dos carnes de 150g, tomate, lechuga ,salsas"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <Button
+                            android:id="@+id/BuyHamburDobleCarne"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="@dimen/defaultlayoutMargin"
+                            android:background="@color/primaryDarkColor"
+                            android:text="@string/btbuyproduct"
+                            android:textColor="@color/ic_launcher_background" />
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="@dimen/cardCornerRadius"
+                    app:cardElevation="@dimen/cardElevation"
+                    android:layout_margin="@dimen/defaultlayoutMargin">
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/imagePerroAmericano"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/heightImagePoduct"
+                            android:layout_margin="@dimen/defaultlayoutMargin"
+                            android:src="@mipmap/Perro_americano"/>
+                        <TextView
+                            android:id="@+id/NamePerroAmericano"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="PERRO AMERICANO"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizeNameProduct"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/PricePerroAmericano"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="$12000"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <TextView
+                            android:id="@+id/DescripPerroAmericano"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="Descripcion: pan, salchicha ranchera ,salsas"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <Button
+                            android:id="@+id/BuyPerroAmericano"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="@dimen/defaultlayoutMargin"
+                            android:background="@color/primaryDarkColor"
+                            android:text="@string/btbuyproduct"
+                            android:textColor="@color/ic_launcher_background" />
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="@dimen/cardCornerRadius"
+                    app:cardElevation="@dimen/cardElevation"
+                    android:layout_margin="@dimen/defaultlayoutMargin">
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/imagePerroEspecial"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/heightImagePoduct"
+                            android:layout_margin="@dimen/defaultlayoutMargin"
+                            android:src="@mipmap/perro_especial"/>
+                        <TextView
+                            android:id="@+id/NamePerroEspecial"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="PERRO ESPECIAL"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizeNameProduct"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/PricePerroEspecial"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="$20000"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <TextView
+                            android:id="@+id/DescripPerroEspecial"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="Descripcion: pan,Salchicha Ranchera, queso, papas Fritas, tocineta, Salsas"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <Button
+                            android:id="@+id/BuyPerroEspecial"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="@dimen/defaultlayoutMargin"
+                            android:background="@color/primaryDarkColor"
+                            android:text="@string/btbuyproduct"
+                            android:textColor="@color/ic_launcher_background" />
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="@dimen/cardCornerRadius"
+                    app:cardElevation="@dimen/cardElevation"
+                    android:layout_margin="@dimen/defaultlayoutMargin">
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/imagecocacola"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/heightImagePoduct"
+                            android:layout_margin="@dimen/defaultlayoutMargin"
+                            android:src="@mipmap/cocacola"/>
+                        <TextView
+                            android:id="@+id/Namecocacola"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="COCA COLA 350ML"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizeNameProduct"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/Pricecocacola"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="$3000"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <TextView
+                            android:id="@+id/Descripcocacola"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="Descripcion: Coca Cola de 350 ml"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <Button
+                            android:id="@+id/Buycocacola"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="@dimen/defaultlayoutMargin"
+                            android:background="@color/primaryDarkColor"
+                            android:text="@string/btbuyproduct"
+                            android:textColor="@color/ic_launcher_background" />
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardCornerRadius="@dimen/cardCornerRadius"
+                    app:cardElevation="@dimen/cardElevation"
+                    android:layout_margin="@dimen/defaultlayoutMargin">
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:id="@+id/imagejugonatural"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/heightImagePoduct"
+                            android:layout_margin="@dimen/defaultlayoutMargin"
+                            android:src="@mipmap/jugosnaturales"/>
+                        <TextView
+                            android:id="@+id/Namejugonatural"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="JUGO NATURAL"
+                            android:gravity="center_horizontal"
+                            android:textSize="@dimen/sizeNameProduct"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:id="@+id/Pricejugonatural"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="$3000"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <TextView
+                            android:id="@+id/Descripjugonatural"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center_horizontal"
+                            android:text="Descripcion: Jugo natural con sabor a fresa en leche"
+                            android:textColor="@color/secondaryTextColor"
+                            android:textSize="@dimen/sizeNamePrice" />
+
+                        <Button
+                            android:id="@+id/Buyjugosnaturale"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="@dimen/defaultlayoutMargin"
+                            android:background="@color/primaryDarkColor"
+                            android:text="@string/btbuyproduct"
+                            android:textColor="@color/ic_launcher_background" />
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

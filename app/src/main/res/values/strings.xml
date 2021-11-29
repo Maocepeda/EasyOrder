@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">EasyOrder</string>
+    <string name="btbuyproduct">Agregar al carrito</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
