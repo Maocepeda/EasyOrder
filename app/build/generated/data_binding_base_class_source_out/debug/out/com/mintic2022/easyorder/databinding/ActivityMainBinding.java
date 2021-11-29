@@ -4,12 +4,13 @@ package com.mintic2022.easyorder.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.textfield.TextInputLayout;
 import com.mintic2022.easyorder.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -17,20 +18,33 @@ import java.lang.String;
 
 public final class ActivityMainBinding implements ViewBinding {
   @NonNull
-  private final CoordinatorLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final LinearLayout linearLayout;
+  public final Button btnCancelar;
 
-  private ActivityMainBinding(@NonNull CoordinatorLayout rootView,
-      @NonNull LinearLayout linearLayout) {
+  @NonNull
+  public final Button btnEntrar;
+
+  @NonNull
+  public final TextInputLayout contrasena;
+
+  @NonNull
+  public final TextInputLayout correo;
+
+  private ActivityMainBinding(@NonNull LinearLayout rootView, @NonNull Button btnCancelar,
+      @NonNull Button btnEntrar, @NonNull TextInputLayout contrasena,
+      @NonNull TextInputLayout correo) {
     this.rootView = rootView;
-    this.linearLayout = linearLayout;
+    this.btnCancelar = btnCancelar;
+    this.btnEntrar = btnEntrar;
+    this.contrasena = contrasena;
+    this.correo = correo;
   }
 
   @Override
   @NonNull
-  public CoordinatorLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -55,13 +69,32 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.linearLayout;
-      LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
-      if (linearLayout == null) {
+      id = R.id.btnCancelar;
+      Button btnCancelar = ViewBindings.findChildViewById(rootView, id);
+      if (btnCancelar == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((CoordinatorLayout) rootView, linearLayout);
+      id = R.id.btnEntrar;
+      Button btnEntrar = ViewBindings.findChildViewById(rootView, id);
+      if (btnEntrar == null) {
+        break missingId;
+      }
+
+      id = R.id.contrasena;
+      TextInputLayout contrasena = ViewBindings.findChildViewById(rootView, id);
+      if (contrasena == null) {
+        break missingId;
+      }
+
+      id = R.id.correo;
+      TextInputLayout correo = ViewBindings.findChildViewById(rootView, id);
+      if (correo == null) {
+        break missingId;
+      }
+
+      return new ActivityMainBinding((LinearLayout) rootView, btnCancelar, btnEntrar, contrasena,
+          correo);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

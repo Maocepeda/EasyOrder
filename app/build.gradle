@@ -22,13 +22,23 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+    //"viewBinding" es una funcion para animación, para código facíl que interactua
+    // con las vistas,y remplaza a "findViewById"
+
+    /*buildFeatures{
+    viewBinding=true
+    }*/
+
     buildFeatures.viewBinding = true
 }
 

@@ -2,5 +2,7 @@ com/mintic2022/easyorder/BuildConfig.java
  com.mintic2022.easyorder.BuildConfig
 com/mintic2022/easyorder/databinding/ActivityMainBinding.java
  com.mintic2022.easyorder.databinding.ActivityMainBinding
+com/mintic2022/easyorder/MainActivity.java
+ com.mintic2022.easyorder.MainActivity
 com/mintic2022/easyorder/databinding/ActivitySplashScreenBinding.java
  com.mintic2022.easyorder.databinding.ActivitySplashScreenBinding

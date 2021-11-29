@@ -1940,6 +1940,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnCancelar
+id btnEntrar
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -1973,7 +1975,9 @@ id content
 id contentPanel
 id contiguous
 id continuousVelocity
+id contrasena
 id coordinator
+id correo
 id cos
 id counterclockwise
 id currentState
@@ -2078,7 +2082,6 @@ id legacy
 id line1
 id line3
 id linear
-id linearLayout
 id listMode
 id list_item
 id masked
