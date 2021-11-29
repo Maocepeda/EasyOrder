@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/EasyOrder/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/EasyOrder/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/EasyOrder/app/src/main/res/layout/activity_sign_up_fragment.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/EasyOrder/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MAURICIO MORALES/AndroidStudioProjects/EasyOrder/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MAURICIO MORALES/AndroidStudioProjects/EasyOrder/app/src/main/res/layout/activity_splash_screen.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/MAURICIO MORALES/AndroidStudioProjects/EasyOrder/app/src/main/res/layout/fragment_admin.xml" value="0.20416666666666666" />
