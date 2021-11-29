@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardCornerRadius" />
+    <dimen name="cardElevation" />
+    <dimen name="defaultlayoutMargin" />
+    <dimen name="heightImagePoduct">150dp</dimen>
+    <dimen name="sizeNameProduct">25dp</dimen>
+    <dimen name="sizeNamePrice">20dp</dimen>
+</resources>

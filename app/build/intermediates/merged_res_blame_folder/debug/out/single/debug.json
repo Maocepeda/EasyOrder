@@ -1,90 +1,122 @@
 [
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\drawable_easy_order_ico.png.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\drawable\\easy_order_ico.png"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\drawable_easy_order.png.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\drawable\\easy_order.png"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_hambur_sencilla.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\hambur_sencilla.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_hamburguesa_doblecarne.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\hamburguesa_doblecarne.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\drawable_easy_order.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\drawable\\easy_order.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_cocacola.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\cocacola.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_jugosnaturales.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\jugosnaturales.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\layout_item_products.xml.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\layout\\item_products.xml"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_perro_especial.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\perro_especial.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\drawable_easy_order_ico.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\drawable\\easy_order_ico.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_perro_americano.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\perro_americano.png"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "D:\\AndroidStudioProjects\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\anim_animation.xml.flat",
-        "source": "D:\\AndroidStudioProjects\\EasyOrder\\app\\src\\main\\res\\anim\\animation.xml"
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\anim_animation.xml.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\anim\\animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\layout_ordenar_product.xml.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\layout\\ordenar_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pocho\\Desktop\\easorder\\EasyOrder\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     }
 ]
